@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "warfare complete", "warfare complete\warfare complete.vcxproj", "{FE6DEA31-610B-4BC4-84EF-CB695C31B2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6DEA31-610B-4BC4-84EF-CB695C31B2B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE6DEA31-610B-4BC4-84EF-CB695C31B2B4}.Debug|Win32.Build.0 = Debug|Win32
+		{FE6DEA31-610B-4BC4-84EF-CB695C31B2B4}.Release|Win32.ActiveCfg = Release|Win32
+		{FE6DEA31-610B-4BC4-84EF-CB695C31B2B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
