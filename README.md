@@ -3,6 +3,8 @@
 ##### this game consist of following things:
 Player,Enemies,Objects,Obstacles,Bullets,Attack,Collision,Upgrading to levels,Different backgrounds,Score count,
 Avoid death points,Game over
+### Demonstration of warefare
+### https://youtu.be/J2DZ5kJ2rZo
 ## Platform
 Developed in Visual Studio 2010
 ## Language
@@ -28,6 +30,5 @@ Install "Visual Studio 2010" On your Pc
 ##### 4.Player shooting
 ##### 5.Player tackling bomb
 ##### 6.Player needs to destroy planes to finish level
-### Demonstration of warefare
-https://youtu.be/J2DZ5kJ2rZo
+
 
