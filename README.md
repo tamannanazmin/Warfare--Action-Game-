@@ -9,7 +9,7 @@ Avoid death points,Game over
 Developed in Visual Studio 2010
 ## Language
 C++
-## How to run "Austians" android app
+## How to run "WarFare" android app
 Install "Visual Studio 2010" On your Pc
 ##### 1.1st Download the zip file
 ##### 2.Unzip the file
